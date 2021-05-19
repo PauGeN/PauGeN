@@ -2,10 +2,10 @@
 
   ### Hi there , I'm PauGeN
 
-###  Developer Program Member | Early Verified Bot Developer
+###  Developer | Web Developer
 
 
-<font color="red" > Likes to listen to songs and sleep  </font>
+<font color="red" > Likes to play games, listen to music  </font>
 
 ### Reach out to me:
 
