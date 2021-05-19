@@ -11,6 +11,8 @@
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/spotify.svg" align="left" />][spotify]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][Instagram]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/discord.svg" align="left" />][Discord]
+
 
 <br />
 
@@ -29,3 +31,4 @@
 
 [spotify]: https://open.spotify.com/user/21nyhpp3bzqfhhs3v5s347laa
 [Instagram]: https://www.instagram.com/emrekyol/?hl=tr
+[Discord]: https://www.discord.com/users/322380429837729792
