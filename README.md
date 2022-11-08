@@ -29,6 +29,5 @@
 <br />  
 
 
-[spotify]: https://open.spotify.com/user/21nyhpp3bzqfhhs3v5s347laa
-[Instagram]: https://www.instagram.com/emrekyol/?hl=tr
+[spotify]: ttps://open.spotify.com/user/21nyhpp3bzqfhhs3v5s347la
 [Discord]: https://www.discord.com/users/322380429837729792
